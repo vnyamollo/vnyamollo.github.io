@@ -27,8 +27,16 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm Vincent Nyamollo, currently a masters student in Industrial and Systems Engineering at [Lamar University](lamar.edu) where I'm supervised by Yueqing Li. Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm Vincent Nyamollo, currently a masters student in Industrial and Systems
+Engineering at [Lamar University](lamar.edu). 
+Prior to this, I have worked in several positions as follows: 
+- Research Assistant at [Human Factors and Ergonomics Lab](https://www.lamar.edu/engineering/industrial/research/labs/human-factors-and-ergonomics-laboratory.html) at Lamar University 
+supervised by [Yueqing Li](https://scholar.google.com/citations?hl=en&user=ROqVQbMAAAAJ&view_op=list_works&sortby=pubdate) working on student learning and discomfort as well as seniors driving behaviors and their relationship with balance issues. 
+At the moment I'm working with Chiung-Fang Chang to assess the effects of climate change and air pollution on the residents of South East Texas.  
+- Data Analyst at Elara Inc. where I collaborated with operations and marketing teams to drive business growth through data-driven decision-making by analyzing data, automating reporting pipelines and build predictive models and interactive dashboards.
+- Project Engineer at [Vivo Energy Kenya](https://www.vivoenergy.com/en/where-we-operate/kenya?tab=retail)
+where I led retail automation project rollouts across 100+ sites, coordinating and managing project activities, implementing safety frameworks and communicating with stakeholders.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research interests encompass the application of Machine Learning for environmental monitoring, with a particular emphasis on leveraging remote sensing and computer vision to better understand and address pressing environmental challenges. Lately, my work has focused on improving air quality prediction in under-monitored regions by integrating satellite-derived atmospheric and meteorological predictors.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Feel free to reach out to me for potential research collaborations.
