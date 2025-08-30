@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: June 2025
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Our paper on the effects of stretching on students' discomfort and cognitive load is accepted at the HFES Conference 2025
