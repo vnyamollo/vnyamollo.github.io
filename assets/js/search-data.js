@@ -443,12 +443,10 @@ ninja.data = [{
             },},{id: "news-started-my-masters-in-industrial-and-systems-engineering-at-lamar-university",
           title: 'Started my masters in Industrial and Systems Engineering at Lamar University.',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-selected-as-leader-of-tomorrow-at-the-54th-st-gallen-symposium-my-essay-on-energy-security-was-featured-in-the-top-25-essays-globally",
+          title: 'Selected as Leader of Tomorrow at the 54th St. Gallen Symposium. My essay...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-our-paper-on-the-effects-of-stretching-on-students-discomfort-and-cognitive-load-is-accepted-at-the-hfes-conference-2025",
+          section: "News",},{id: "news-our-paper-on-the-effects-of-stretching-on-students-discomfort-and-cognitive-load-is-accepted-at-the-hfes-conference-2025",
           title: 'Our paper on the effects of stretching on students’ discomfort and cognitive load...',
           description: "",
           section: "News",},{id: "projects-project-1",
