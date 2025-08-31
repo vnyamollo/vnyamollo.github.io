@@ -1,4 +1,3 @@
-<!--
 ---
 layout: page
 title: project 3 with very long name
@@ -80,4 +79,4 @@ Here's the code for the last row of images above:
 ```
 
 {% endraw %}
--->
+
