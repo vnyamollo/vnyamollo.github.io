@@ -629,8 +629,7 @@ third_party_libraries:
 jekyll_get_json:
   - data: resume
     #json: assets/json/resume.json # it can also be an url
-    #json: data/cv.yml
-    json: assets/pdf/example_pdf.pdf
+    json: data/cv.yml
 
 jsonresume:
   - basics
