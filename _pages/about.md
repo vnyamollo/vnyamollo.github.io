@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile.jpg
   image_circular: true # crops the image to make it circular
  # more_info: >
  #   <p>555 your office number</p>
@@ -37,6 +37,6 @@ At the moment I'm working with Chiung-Fang Chang to assess the effects of climat
 - Project Engineer at [Vivo Energy Kenya](https://www.vivoenergy.com/en/where-we-operate/kenya?tab=retail)
 where I led retail automation project rollouts across 100+ sites, coordinating and managing project activities, implementing safety frameworks and communicating with stakeholders.
 
-My research interests encompass the application of Machine Learning for environmental monitoring, with a particular emphasis on leveraging remote sensing and computer vision to better understand and address pressing environmental challenges. Lately, my work has focused on improving air quality prediction in under-monitored regions by integrating satellite-derived atmospheric and meteorological predictors.
+My research interests encompass the application of Machine Learning for environmental monitoring, with a particular emphasis on leveraging remote sensing and computer vision to better understand and address pressing environmental, mobility and humanitarian challenges. Lately, my work has focused on improving air quality prediction in under-monitored regions by integrating satellite-derived atmospheric and meteorological predictors.
 
 Feel free to reach out to me for potential research collaborations.
