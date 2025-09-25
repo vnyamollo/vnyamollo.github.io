@@ -25,7 +25,8 @@ related_publications: true
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Binned residual analysis evaluating both bias and overall predictive accuracy across low, medium and high pollution levels. The left axis shows mean bias error (MBE) in predicting
+    low, medium and high PM2.5 concentrations, where negative values indicate underprediction and positive values indicate overprediction. The right axis reports the prediction errors (RMSE and MAE).
 </div>
 
 
