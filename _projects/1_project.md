@@ -1,7 +1,3 @@
-### Resources
-#- 📄 [Read the Paper (PDF)](assets/pdf/PM25.pdf)  
-#- 💻 [View the Code](https://github.com/yourusername/project1)  
-
 ---
 layout: page
 title: Daily PM25 Prediction
