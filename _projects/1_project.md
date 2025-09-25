@@ -6,13 +6,12 @@
 layout: page
 title: Daily PM25 Prediction
 description: Predicting PM2.5 Concentration in Under-Monitored Urban Areas Using Satellite-Derived Predictors and Machine Learning
-img: assets/img/12.jpg
+img: assets/img/PM25_Residual.png
 importance: 1
 category: work
 related_publications: true
 ---
 📄 [Read the Paper (PDF)](assets/pdf/PM25.pdf)  
-
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
