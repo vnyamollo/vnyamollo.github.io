@@ -407,7 +407,12 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-on-the-effects-of-stretching-on-students-discomfort-and-cognitive-load-is-accepted-at-the-hfes-conference-2025",
           title: 'Our paper on the effects of stretching on students’ discomfort and cognitive load...',
           description: "",
-          section: "News",},{id: "projects-project-3-with-very-long-name",
+          section: "News",},{id: "projects-daily-pm25-prediction",
+          title: 'Daily PM25 Prediction',
+          description: "Predicting PM2.5 Concentration in Under-Monitored Urban Areas Using Satellite-Derived Predictors and Machine Learning",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/1_project/";
+            },},{id: "projects-project-3-with-very-long-name",
           title: 'project 3 with very long name',
           description: "a project that redirects to another website",
           section: "Projects",handler: () => {
